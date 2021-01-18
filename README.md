@@ -13,6 +13,9 @@ The replication programs for the paper provide examples for calling backcast_ts.
 load_macro_data creates a .mat file with the formmatted macro data from 
 FRED QD and should be called before any other program.
 
+The FRED QD database included in this distribution can be updated from:
+https://research.stlouisfed.org/econ/mccracken/fred-databases/
+
 The main programs are in the directory Programs
 load_macro_data.m can be used to update the macro dataset from Fred QD
 call_figure1.m reproduces Figure 1 from the paper.
