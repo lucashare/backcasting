@@ -7,7 +7,7 @@ From a dataset with missing observations at the beginning or end. It can be
 found in the Utilities folder. 
 
 This repository contains files for the replication of the figures and table 
-"What Drives Bank Performance" by Luca Guerrieri and Collin Harkrader. 
+"What Drives Bank Performance" by Luca Guerrieri and James Collin Harkrader. 
 The replication programs for the paper provide examples for calling backcast_ts.
 
 load_macro_data creates a .mat file with the formmatted macro data from 
